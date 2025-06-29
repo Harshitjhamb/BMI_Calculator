@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         'Body Mass Index ',
                         style: TextStyle(
                           fontWeight: FontWeight.w600,
-                          fontSize: 23,
+                          fontSize: 25,
                           fontFamily: "Font1",
                         ),
                       ),
